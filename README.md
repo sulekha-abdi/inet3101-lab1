@@ -1,7 +1,7 @@
 # inet3101-lab1
 
 ## Code for inet3101 lab1 
-
+This program was written by Sulekha Abdi and collaborated with Hayat Muhumed
 
 1. Print all records
 This will get the program to have a function that prints all the records within memory.
